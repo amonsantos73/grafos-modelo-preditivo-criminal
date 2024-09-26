@@ -1,0 +1,18 @@
+# Ignorar arquivos CSV originais de dados
+Crime_Data_from_2020_to_Present.csv
+
+# Ignorar outros arquivos comuns
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ignorar arquivos específicos do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+env/
+venv/
+.venv/
